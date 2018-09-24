@@ -6,3 +6,7 @@ There are three labs of Pattern Recognition in MATLAB.
 Six distance-based classifiers: Minimum Euclidean Distance (MED), Generalized-Euclidean Distance (GED), Maximum A Posteriori (MAP), 1-NN, 3-NN, 5-NN
 
 2nd Lab:
+Error of different classifiers
+
+3rd Lab:
+
