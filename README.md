@@ -9,4 +9,4 @@ Six distance-based classifiers: Minimum Euclidean Distance (MED), Generalized-Eu
 Error of different classifiers
 
 3rd Lab:
-
+Probability of error of different boosted and unboosted classifiers
